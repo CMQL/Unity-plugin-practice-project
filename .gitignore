@@ -9,7 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+<<<<<<< HEAD
 /[Pp]ackages/
+=======
+>>>>>>> 7696113988b5d35d06f2fb6efdb634651149e020
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
